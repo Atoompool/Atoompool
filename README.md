@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJmeTRiaXR4cHRxdXZsaWJ2NjdwamU5MzB2bmZqdzZvNmUzYzd1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif"  />
+  <img height="275" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJmeTRiaXR4cHRxdXZsaWJ2NjdwamU5MzB2bmZqdzZvNmUzYzd1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif"  />
 </div>
 
 ###
@@ -8,11 +8,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Atoompool.Atoompool&"  />
-</div>
 
 ###
 
